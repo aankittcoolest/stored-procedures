@@ -1,0 +1,7 @@
+c:\users\aagrawal\documents\visual studio 2010\Projects\ExecuteStoreProc\ExecuteStoreProc\obj\x86\Debug\ExecuteStoreProc.Form1.resources
+c:\users\aagrawal\documents\visual studio 2010\Projects\ExecuteStoreProc\ExecuteStoreProc\obj\x86\Debug\ExecuteStoreProc.Properties.Resources.resources
+c:\users\aagrawal\documents\visual studio 2010\Projects\ExecuteStoreProc\ExecuteStoreProc\obj\x86\Debug\ExecuteStoreProc.csproj.GenerateResource.Cache
+c:\users\aagrawal\documents\visual studio 2010\Projects\ExecuteStoreProc\ExecuteStoreProc\bin\Debug\ExecuteStoreProc.exe
+c:\users\aagrawal\documents\visual studio 2010\Projects\ExecuteStoreProc\ExecuteStoreProc\bin\Debug\ExecuteStoreProc.pdb
+c:\users\aagrawal\documents\visual studio 2010\Projects\ExecuteStoreProc\ExecuteStoreProc\obj\x86\Debug\ExecuteStoreProc.exe
+c:\users\aagrawal\documents\visual studio 2010\Projects\ExecuteStoreProc\ExecuteStoreProc\obj\x86\Debug\ExecuteStoreProc.pdb
